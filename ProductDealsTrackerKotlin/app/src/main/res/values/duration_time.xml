@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="duration_time">
+        <item><bold>Every 15 Minutes</bold></item>
+        <item><bold>Every Hour</bold></item>
+        <item><bold>Every 5 Hours</bold></item>
+    </string-array>
+
+
+</resources>
