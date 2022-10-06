@@ -34,5 +34,5 @@ Install the application by downloading the apk file in the git repo.
     
 ## Demo
 
-![](![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/adithyanair2001/Product-Deals-Tracker/blob/main/20221005_063604.gif)))
+![](![](https://github.com/adithyanair2001/Product-Deals-Tracker/blob/main/20221005_063604.gif))
 
